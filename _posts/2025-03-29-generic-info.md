@@ -1,7 +1,7 @@
 ---
 title: Основная информация
 date: 2025-03-29 02:30:00 +0300  # Московское время (UTC+3)
-categories: [Основная информация]
+categories: [Неофициальный FAQ по Fedora, Основная информация]
 tags: [TAG]     # TAG names should always be lowercase
 ---
 
